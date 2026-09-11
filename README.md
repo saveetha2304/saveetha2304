@@ -1,15 +1,21 @@
 <div align="center">
 
-<img src="https://drive.google.com/uc?export=view&id=1pjh9IfBTOfhwVE44TPHou5gfQvtnjX7q" width="180" alt="Saveetha S">
+  <!-- Phoenix -->
+  <img src="./phoenix.svg" width="450" alt="Phoenix">
 
-<h1>Hi 👋, I'm Saveetha S</h1>
+  <br><br>
 
-<h3>B.Tech Artificial Intelligence & Data Science Student</h3>
+  <!-- Profile Picture -->
+  <img src="./profile.png" width="180" alt="Saveetha S">
 
-<p>
-Passionate about software development, web development, and data-driven solutions.
-I enjoy exploring new technologies and building practical, real-world projects.
-</p>
+  <h1>Hi 👋, I'm Saveetha S</h1>
+
+  <h3>B.Tech Artificial Intelligence & Data Science Student</h3>
+
+  <p>
+    Passionate about software development, web development, and data-driven solutions.
+    I enjoy exploring new technologies and building practical, real-world projects.
+  </p>
 
 </div>
 
